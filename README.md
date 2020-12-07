@@ -1,5 +1,5 @@
-<p align="left">
-<a href="#"><img title="Made in India" src=""></a>
+<p align="center">
+<a href="#"><img title="Made in India" src="https://cdn.shopify.com/s/files/1/0128/2726/3066/files/Capture.PNG?v=1574921023"></a>
 </p>
 <p align="center">
 <a href="#"><img title="SharkPhisher" src="https://i.ibb.co/WGB8nJz/SHARKPHISHER.jpg"></a>
@@ -49,9 +49,5 @@ apt update ; apt install git -y ; git clone git://github.com/abhijithammu64/shar
 #### > SERVEO (https://serveo.net) (No longer working)
 #### > LOCALHOSTRUN (https://localhost.run)
 #### > LOCALXPOSE (https://localxpose.io/)
-
-## Find Me on :
-[![Github](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png)](https://github.com/abhijithammu64)
-[![Instagram](https://png.pngtree.com/element_our/png/20181011/instagram-social-media-icon-design-template-vector-png_126996.jpg)](https://www.instagram.com/4bh1j17h)
 
 
