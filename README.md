@@ -29,8 +29,6 @@ apt update ; apt install git -y ; git clone git://github.com/abhijithammu64/shar
 ```
 <br>
 <p align="center">
-<img width="50%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/nexphisher1.png"/>
-<img width="46%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/nexphisher2.png"/>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
@@ -48,12 +46,12 @@ apt update ; apt install git -y ; git clone git://github.com/abhijithammu64/shar
 ## Tunelling Options :
 #### > Localhost (127.0.0.1)
 #### > NGROK (https://ngrok.com)
-#### > SERVEO (https://serveo.net)
+#### > SERVEO (https://serveo.net) (No longer working)
 #### > LOCALHOSTRUN (https://localhost.run)
 #### > LOCALXPOSE (https://localxpose.io/)
 
 ## Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/abhijithammu64)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/4bh1j17h)
+[![Github](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png)](https://github.com/abhijithammu64)
+[![Instagram](https://png.pngtree.com/element_our/png/20181011/instagram-social-media-icon-design-template-vector-png_126996.jpg)](https://www.instagram.com/4bh1j17h)
 
 
