@@ -21,7 +21,7 @@
 * `cd nexphisher`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
-#### > Run : `bash nexphisher`
+#### > Run : `bash sharkphisher`
 
 ## Single Command :
 ```
