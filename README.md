@@ -1,8 +1,8 @@
 <p align="left">
-<a href="#"><img title="Made in India" src="https://i.ibb.co/WGB8nJz/SHARKPHISHER.jpg"></a>
+<a href="#"><img title="Made in India" src=""></a>
 </p>
 <p align="center">
-<a href="#"><img title="SharkPhisher" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/nexphisher.png"></a>
+<a href="#"><img title="SharkPhisher" src="https://i.ibb.co/WGB8nJz/SHARKPHISHER.jpg"></a>
 </p>
 <p align="center">
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
@@ -17,7 +17,7 @@
 
 * `apt update`
 * `apt install git -y`
-* `git clone git://github.com/htr-tech/nexphisher.git`
+* `git clone git://github.com/abhijithammu64/sharkphisher.git`
 * `cd nexphisher`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
@@ -25,7 +25,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
+apt update ; apt install git -y ; git clone git://github.com/abhijithammu64/sharkphisher.git ; cd sharkphisher ; bash setup ; bash sharkphisher
 ```
 <br>
 <p align="center">
@@ -53,8 +53,7 @@ apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher
 #### > LOCALXPOSE (https://localxpose.io/)
 
 ## Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahmid.rayat)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/tahmid.rayat.official)
+[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/abhijithammu64)
+[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/4bh1j17h)
 
 
