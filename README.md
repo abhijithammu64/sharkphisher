@@ -19,8 +19,8 @@
 * `apt install git -y`
 * `git clone git://github.com/abhijithammu64/sharkphisher.git`
 * `cd sharkphisher`
-#### > SETUP : `bash setup` (the script will get stuck the first time u run it, hit ctrl + c and run it again and it should be fine)
-#### > SETUP [TERMUX] : `bash tmux_setup` (the script will get stuck the first time u run it, hit ctrl + c and run it again and it should be fine)
+#### > SETUP : `bash setup`
+#### > SETUP [TERMUX] : `bash tmux_setup` 
 #### > Run : `bash sharkphisher`
 
 ## Single Command :
